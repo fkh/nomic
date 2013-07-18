@@ -1,6 +1,6 @@
 ## Nomic
 
-Nomic is a game of rule-making. Read more about it on [Peter Subers' website, including how to play](http://legacy.earlham.edu/~peters/writing/nomic.htm).
+Nomic is a game of rule-making. Read more about it on [Peter Suber's website, including how to play](http://legacy.earlham.edu/~peters/writing/nomic.htm).
 
 To join this game, submit a pull request that adds your name to [Players](https://github.com/fkh/nomic/blob/master/players). Play begins on Sunday July 21st.
 
