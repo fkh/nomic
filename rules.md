@@ -14,9 +14,6 @@ A rule-change is any of the following: (1) the enactment, repeal, or amendment o
 ##### 104. 
 All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
 
-##### 105. 
-Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
-
 ##### 106. 
 All proposed rule-changes shall be written down before they are voted on. If they are adopted, they shall guide play in the form in which they were voted on.
 
@@ -116,3 +113,6 @@ This rule takes precedence over every other rule determining the winner.
 
 ##### 301. 
 The current list of players (found at https://github.com/fkh/nomic/blob/master/players) is integrated into the rules along with this text as Rule 301, and may only be amended (including additions, deletions, and/or other alterations) through an amendment to this rule. 
+
+##### 302. 
+Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
