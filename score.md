@@ -17,9 +17,11 @@ When a proposed rule-change is defeated, the player who proposed it loses 10 poi
 ## Current Standings:
 Player  Points
 
+@andycochran 0
+
 @eglenn 10
 
-@fkh  0
+@fkh  8.8
 
 @joelmahoney  0
 
@@ -29,3 +31,4 @@ Player  Points
 
 ## Running Tally:
 1. Rule 301: proposed by eglenn; approved 5/5.  (301-291) * (5/5) = 10 points.  [2013-07-28]
+2. Rule 302: proposed by fkh; approved 4/5. (302-291) * (4/5) = 8.8 points. [2013-08-20]
