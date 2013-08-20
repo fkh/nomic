@@ -112,7 +112,15 @@ If the rules are changed so that further play is impossible, or if the legality 
 This rule takes precedence over every other rule determining the winner.
 
 ##### 301. 
-The current list of players (found at https://github.com/fkh/nomic/blob/master/players) is integrated into the rules along with this text as Rule 301, and may only be amended (including additions, deletions, and/or other alterations) through an amendment to this rule. 
+The current list of players (found at https://github.com/fkh/nomic/blob/master/players) is integrated into the rules along with this text as Rule 301, and may only be amended (including additions, deletions, and/or other alterations) through an amendment to this rule; and
+
+Andy Cochran is included in the list of active players; and
+
+Joel Mahoney is removed from the list of active players.
 
 ##### 302. 
 Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
+
+##### 303.
+
+If a rule is proposed on a day of the month which is a composite number, then every eligible voter receives one point for each use of the letter "A" in the proposed rule, minus the number of commas. If there are more commas than letters "A" in the proposed rule on a day of the month which is a composite number, the player who proposed the rule shall be shamed and no eligible voters shall receive or lose any points.
