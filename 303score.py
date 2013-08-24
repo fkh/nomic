@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# run like this, with the identifier for a commit:
+# python ./303score.py aa1d31eef6ec5a4670c65169de1a841cb6d4822a
+
 import sys
 import urllib
 import json
