@@ -23,13 +23,12 @@ Player  Points
 
 @fkh  8.8
 
-@joelmahoney  0
-
 @dominicmauro -10
 
-@mrwz 0
+@mrwz 10.4
 
 ## Running Tally:
 1. Rule 301: proposed by eglenn; approved 5/5.  (301-291) * (5/5) = 10 points.  [2013-07-28]
 2. Rule 302: proposed by fkh; approved 4/5. (302-291) * (4/5) = 8.8 points. [2013-08-20]
 3. Rule 304: proposed by dominicmauro; rejected 1-2. -10 points per Rule 206. [2013-09-04]
+4. Rule 304: proposed by mrwz; approved 4/5. (304-291) * (4/5) = 10.4 points. [2013-09-05]
