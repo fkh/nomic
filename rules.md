@@ -122,3 +122,17 @@ Alongside every player's score, there is variable called "contrariness". It is a
 
 When a single player reaches a contrariness of 10, the total of every player's contrariness is added to that player's score, and all contrariness variables are reset to 0. If multiple players reach a contrariness of 10 on the same turn, the total of every player's contrariness is instead added to the score of every player that did not reach a contrariness of 10.
 
+##### 306. 
+Rule 202 is replaced with the following text:
+
+One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) computing points to be awarded to each player as a result of the vote (see following paragraphs) and updating the score.md document.
+
+Points shall be computed as follows:
+
+ + For the player proposing the rule: subtract 291 from the ordinal number of the proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer;
+ + For all other players (calculated individually): subtract 291 from the ordinal number of the proposal, multiply the result by the fraction of favorable votes it received, subtract one-half point for each full day between the time of the proposal and the time the player in question registered a final vote, and rounded the result to the nearest integer.
+ 
+Points calculated in this manner, or any other, may be positive or negative.  
+
+In addition to the points awarded based on these calculations, players may also be awarded positive or negative points based on other rules. (For example, Rules 204  and 206, at the time of this draft), as well as "contrariness" scores or other similar tallies.
+
