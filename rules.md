@@ -117,3 +117,8 @@ Every player is an eligible voter. Every eligible voter must participate in ever
 ##### 304. 
 The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
 
+##### 305. 
+Alongside every player's score, there is variable called "contrariness". It is a non-negative rational number. All players begin with a contrariness of 0. Each turn, if a rule-change is adopted, the contrariness of every player who voted against the adopted rule is increased by 1. 
+
+When a single player reaches a contrariness of 10, the total of every player's contrariness is added to that player's score, and all contrariness variables are reset to 0. If multiple players reach a contrariness of 10 on the same turn, the total of every player's contrariness is instead added to the score of every player that did not reach a contrariness of 10.
+
